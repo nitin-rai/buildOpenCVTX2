@@ -148,7 +148,7 @@ time cmake -D CMAKE_BUILD_TYPE=RELEASE \
       -D WITH_CUBLAS=ON \
       -D WITH_LIBV4L=ON \
       -D WITH_GSTREAMER=ON \
-      -D WITH_GSTREAMER_0_10=OFF \
+      -D WITH_GSTREAMER_0_10=ON \
       -D WITH_QT=ON \
       -D WITH_OPENGL=ON \
       ../
